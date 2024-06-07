@@ -1,5 +1,6 @@
-The Bangor Toos
+## The Bangor Tools
 Coded in Python3
+
 This tool made for educational purposes only! As a part of our project at Program Studi Independen - Cyber Security Celerates
 
 ### Clone Repository

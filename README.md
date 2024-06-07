@@ -5,6 +5,7 @@ This tool made for educational purposes only! As a part of our project at Progra
 
 ### Clone Repository
 > git clone https://github.com/xecte-7/Bangor
+>
 > cd Bangor
 
 ### Install dependencies

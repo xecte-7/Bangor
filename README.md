@@ -9,7 +9,7 @@ This tool made for educational purposes only! As a part of our project at Progra
 > cd Bangor
 
 ### Install dependencies
-> pip install -r requirements.py
+> pip install -r requirements.txt
 
 ### Run
 > python bangor.py
